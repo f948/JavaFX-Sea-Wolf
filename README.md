@@ -1,6 +1,6 @@
 # JavaFX-Sea-Wolf
 
-Description: A remake of the 1976 game "Sea Wolf", in which a player will try to fire torpedoes to destroy ships that enter and exit the screen 
+Description: A remake of the 1976 game "Sea Wolf", in which a player will try to fire torpedoes to destroy ships that enter and exit the screen.There will be underwater mines that will collide with your torpedoes and prevent you from destroying ships
 
 Video walkthrough avaliable at https://www.youtube.com/watch?v=O6R4wvClFX0
 
